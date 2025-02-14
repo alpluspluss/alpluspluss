@@ -19,11 +19,12 @@
 ### TypeScript
 
 - [English Literature 4](https://github.com/alpluspluss/Lit-final-winter) - Literature 4 winter semester final project.
-- [rbxassetfetcher](https://rbxassetfetcher.netlify.app/) - A sleek asset fetcher for Roblox developers.
+- [rbxassetfetcher](https://rbxassetfetcher.netlify.app/) - a sleek asset fetcher for Roblox developers.
 
 ### Rust
 
 - [vectoria](https://github.com/yuminaa/vectoria) - a Rust library for working with vectors and matrices mathematics.
+- [forge](https://github.com/alpluspluss/forge) - a fast, modern C/C++ build system.
 
 ### C#
 
