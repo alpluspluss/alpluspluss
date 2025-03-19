@@ -1,6 +1,6 @@
 # Al
 
-Hi, I'm Al and I'm 17. I like coding and I'm a hobbyist programmer. I usually work using C++ and other low-level stuffs. I also do game & web development during free time.
+Hi, I'm Al and I'm 17. I like coding and I'm a hobbyist programmer. I usually work using C++ on low-level stuffs. I also do game & web development during free time. I love gacha games very much.
 
 See [portfolio](PORTFOLIO.md) for my works and their statuses!
 

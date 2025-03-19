@@ -1,13 +1,19 @@
 ## My projects
 
+### Assembly
+
+- [smk](https://github.com/alpluspluss/smk) - a very small, educational bootloader.
+- [bf-asm](https://github.com/alpluspluss/bf-asm) - a small brainfuck interpreter in Apple Aarch64.
+- [bootloader-x86_64](https://github.com/alpluspluss/bootloader-x86_64) - a two-stage bootloader made for AMD64 CPU architecture in pure Assembly scrpt.
+  
 ### C
 
 - [vOS](https://github.com/yuminaa/vOS) - a minimal operating system for AMD64.
 
 ### C++
 
-- [oronyx](https://github.com/oronyx/oronyx) - a POSIX-compatible cross-platform kernel.
-- [klare](https://github.com/oronyx/klare) - a general purpose programming language.
+- [ffos](https://github.com/alpluspluss/ffos) - an operating system in C++
+- [naught](https://github.com/alpluspluss/naught) - a fast, low-level game engine.
 - [vci](https://github.com/alpluspluss/vci) - a high performance video-to-ASCII converter.
 - [jalloc](https://github.com/alpluspluss/jalloc) - [ARCHIVED] a high performance memory allocator.
 
@@ -30,15 +36,6 @@
 
 - [AlDiscord-RP](https://github.com/yuminaa/Al-DiscordRP) - cross-platform Discord Rich Presence Editor.
 
-### Assembly
-
-- [brainfucker](https://github.com/yuminaa/brainfucker) - a Brainfuck interpreter for aarch64 macOS in ARM64 Assembly.
-- [bootloader-x86_64](https://github.com/alpluspluss/bootloader-x86_64) - a two-stage bootloader made for AMD64 CPU architecture in pure Assembly scrpt.
-
 ### OCaml
 
 - [cstring](https://github.com/namelessmei/cstring) - a fast cstring library for OCaml programming language.
-
-### Zig
-
-- [blengine](https://github.com/alpluspluss/blengine) - A lightning-fast static site generator
