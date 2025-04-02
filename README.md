@@ -13,5 +13,3 @@ See [portfolio](PORTFOLIO.md) for my works and their statuses!
 ![GIF](assets/readme/acheron.gif)
 
 </div>
-
-![](https://komarev.com/ghpvc/?username=alpluspluss)

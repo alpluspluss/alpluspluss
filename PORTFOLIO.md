@@ -4,10 +4,11 @@
 
 - [smk](https://github.com/alpluspluss/smk) - a very small, educational bootloader.
 - [bf-asm](https://github.com/alpluspluss/bf-asm) - a small brainfuck interpreter in Apple Aarch64.
-- [bootloader-x86_64](https://github.com/alpluspluss/bootloader-x86_64) - a two-stage bootloader made for AMD64 CPU architecture in pure Assembly scrpt.
+- [bootloader-x86_64](https://github.com/alpluspluss/bootloader-x86_64) - a two-stage bootloader made for AMD64 CPU architecture in pure Assembly script.
   
 ### C
 
+- [bfc](https://github.com/alpluspluss/bfc) - a brainfuck compiler with custom Aarch64 backend and JIT runtime execution.
 - [vOS](https://github.com/yuminaa/vOS) - a minimal operating system for AMD64.
 
 ### C++
@@ -35,6 +36,15 @@
 ### C#
 
 - [AlDiscord-RP](https://github.com/yuminaa/Al-DiscordRP) - cross-platform Discord Rich Presence Editor.
+
+### Java
+
+- [FTC Robotics]() - Robot controller code for FTC robotics competition.
+- [notify]() - AP Computer Science A Final Project
+
+### Swift
+
+- [Swiftify](https://github.com/alpluspluss/Swiftify) - A made-to-practice SwiftUI music player desktop app.
 
 ### OCaml
 
