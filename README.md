@@ -1,6 +1,6 @@
 # Al
 
-Hi, I'm Al and I'm 17. I like coding and I'm a hobbyist programmer focusing on compilers. I usually work using C++ on low-level stuffs. I also do game & web development during free time. I love gacha games very much; actively am playing Honkai: Star Rail and Fate/Grand Order.
+Hi, I'm Al and I'm 18. I like coding and I'm a hobbyist programmer focusing on compilers. I usually work using C++ on low-level stuffs. I also do game & web development during free time. I love gacha games very much; actively am playing Honkai: Star Rail and Fate/Grand Order.
 
 My current ongoing project is [Arc](https://github.com/alpluspluss/arc) which is a compiler backend designed for parallel compilation out of the box with modern API.
 
